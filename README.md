@@ -1,6 +1,6 @@
 # Hidden-Search
 
-Live Demo: https://riponalmamun.github.io/Hidden-Search/
+# Live Demo: https://riponalmamun.github.io/Hidden-Search/
 
 
 # Animated Search Bar UI
